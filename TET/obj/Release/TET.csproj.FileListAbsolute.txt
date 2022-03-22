@@ -1,0 +1,11 @@
+C:\Users\Шпер\Desktop\TETЯIS\TET\TET\bin\Release\TET.exe.config
+C:\Users\Шпер\Desktop\TETЯIS\TET\TET\bin\Release\TET.exe
+C:\Users\Шпер\Desktop\TETЯIS\TET\TET\bin\Release\TET.pdb
+C:\Users\Шпер\Desktop\TETЯIS\TET\TET\obj\Release\TET.csproj.AssemblyReference.cache
+C:\Users\Шпер\Desktop\TETЯIS\TET\TET\obj\Release\TET.csproj.SuggestedBindingRedirects.cache
+C:\Users\Шпер\Desktop\TETЯIS\TET\TET\obj\Release\TET.Form1.resources
+C:\Users\Шпер\Desktop\TETЯIS\TET\TET\obj\Release\TET.Properties.Resources.resources
+C:\Users\Шпер\Desktop\TETЯIS\TET\TET\obj\Release\TET.csproj.GenerateResource.cache
+C:\Users\Шпер\Desktop\TETЯIS\TET\TET\obj\Release\TET.csproj.CoreCompileInputs.cache
+C:\Users\Шпер\Desktop\TETЯIS\TET\TET\obj\Release\TET.exe
+C:\Users\Шпер\Desktop\TETЯIS\TET\TET\obj\Release\TET.pdb
